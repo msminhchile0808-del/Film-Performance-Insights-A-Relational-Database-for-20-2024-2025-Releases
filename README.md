@@ -1,4 +1,4 @@
-### Film-Performance-Insights-A-Relational-Database-for-20-2024-2025-Releases
+# Film-Performance-Insights-A-Relational-Database-for-20-2024-2025-Releases
 ## Project Summary:
 This project builds a relational database to organize and analyze data from 20
 films released between 2024 and 2025. It stores essential information such as
@@ -13,13 +13,13 @@ operational film data with analytical forecasting, enabling more informed,
 evidence-based business decisions.
 Note: Ratings are sourced from Rotten Tomatoes due to time constraints.
 ## 1. Production Strategy: Casting
-# Questions: Which actors consistently appear in movies with the highest ratings?
+### Questions: Which actors consistently appear in movies with the highest ratings?
 Studios can utilize databases like this to see which actors would generate the most
 value by identifying who consistently plays high-rated products, supporting
 higher salary justifications during contract negotiations. Additionally, Producers
 can also use these insights to justify lead actors’ salaries to investors.
 ## 2. Competitive Benchmarking (KPIs)
-# Questions: Which genre is the most 'saturated' (has the most entries) in 2024 -
+### Questions: Which genre is the most 'saturated' (has the most entries) in 2024 -
 2025?
 With 20 movies from 2024-2025, we can perform trend analysis to determine
 which genres are most popular and identify the gaps in the market. For example,
